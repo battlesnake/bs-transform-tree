@@ -1,0 +1,23 @@
+{
+  "name": "bs-transform-tree",
+  "version": "1.0.0",
+  "description": "Tree transformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battlesnake/bs-transform-tree.git"
+  },
+  "author": "Mark K Cowan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/battlesnake/bs-transform-tree/issues"
+  },
+  "homepage": "https://github.com/battlesnake/bs-transform-tree#readme",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
